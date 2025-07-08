@@ -27,3 +27,5 @@ intro:
 
 ## 計量分析の方法論
 - 現在準備中
+
+[テスト](/lab_desk/linear-regression/)
