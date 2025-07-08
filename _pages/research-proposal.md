@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "研究計画書の書き方"
-permalink: /research-proposal
+permalink: /lab_desk/research-proposal
 author_profile: false
 toc_label: "目次"
 math: true

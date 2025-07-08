@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Git & GitHub : 研究は絶対にバックアップせよ"
-permalink: /github-backup
+permalink: /lab_desk/github-backup
 author_profile: false
 toc_label: "目次"
 math: true
