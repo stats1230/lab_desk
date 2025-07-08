@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "卒論・修論の体裁 Tips"
-permalink: /lab_desk/research-tips
+permalink: /research-tips/
 author_profile: false
 toc_label: "目次"
 math: true

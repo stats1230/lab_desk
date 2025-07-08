@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "TeX入門 : PCで数式や表を扱えるようになる"
-permalink: /lab_desk/tex-entry
+permalink: /tex-entry/
 author_profile: false
 toc: true
 toc_label: "目次"
